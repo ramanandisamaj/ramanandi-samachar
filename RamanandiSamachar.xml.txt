@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ramanandisamachar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<samachar>
+		<id>1</id>
+		<title>Adalja Harshad R</name>
+		<date>7/7/2014</date>
+		<description>Dr. Adalja Laboratory, 22 - Galaxy Commercial Center, 1st Floor, Javahar Road, Rajkot - 360001</description>
+		<image>https://raw.github.com/prconsultancy/IMA/master/dr.pic/Adalja%20Harshad.png</image>
+	</samachar>
+</ramanandisamachar>
